@@ -1,5 +1,5 @@
 package com.codus;
-// Constructors overloading are sam as method overloading and code is 99% similar to Constructors, the main
+// Constructors overloading are same as method overloading and code is 99% similar to Constructors, the main
 // difference in this is that we don't comment out the default value assigning Employee function which helps us in
 // putting values as per our comfort i.e via getter & setter or by overloading the constructor even more by narrowing
 // the constructor by the data it asks for .
